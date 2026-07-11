@@ -1,6 +1,8 @@
 # Client & Project Tracker
 
-![CI](https://github.com/USER/REPO/actions/workflows/ci.yml/badge.svg)
+Live Demo: https://client-project-tracker-production-a106.up.railway.app/
+
+You can use the blow seed data to test the platform!
 
 A full-stack agency tool for managing clients, projects, tasks, and time — with role-based access for admins, team members, and clients.
 
